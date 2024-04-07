@@ -2,7 +2,7 @@
 
 ## Invoice Extraction Bot
 
-This is an invoice extraction bot built using Streamlit, LangChain, and a local LLM. IEB can extract invoice data from PDF and DOCX files, including invoice number, date, client, description, hours, rate, and amount.
+This is an invoice extraction bot built using Streamlit, LangChain, and Ollama. IEB can extract invoice data from PDF and DOCX files, including invoice number, date, client, description, hours, rate, and amount.
 
 ## Credits
 
