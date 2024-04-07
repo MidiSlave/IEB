@@ -68,6 +68,3 @@ The expected output format has been anonymized to protect sensitive information.
 
 This project is licensed under the MIT License.
 
-## Special Mention
-
-This project was made by Nathan MacGregor, who has limited coding experience, but with the help of Claude.ai, was able to create this useful tool. The motivation behind this project was to help Nathan's wonderful partner, who is an accountant, by automating the tedious task of extracting invoice data.
