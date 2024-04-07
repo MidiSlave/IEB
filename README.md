@@ -62,8 +62,6 @@ Invoice data:
 Expected output format (use "N/A" for missing values):
 {{'Invoice no': 'INV0001', 'Date': '01/01/2023', 'Client': 'Client Name', 'Description': 'Service Description', 'Hours': '2 hours', 'Rate': '$50/h', 'Amount': '$100.00'}}
 
-The expected output format has been anonymized to protect sensitive information.
-
 ## License
 
 This project is licensed under the MIT License.
